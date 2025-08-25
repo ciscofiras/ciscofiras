@@ -18,6 +18,15 @@
 
 ---
 
+## 🌟 Highlights
+- 🚀 Migrated ASA to FMC with full NAT/ACL conversion.  
+- 🛠️ Automated VLAN & Access-Port deployment with Ansible.  
+- ☁️ Built Azure VNets with Terraform (IaC best practices).  
+- 🔒 Implemented Zero-Trust baseline using iptables.  
+- 📊 Deployed Prometheus + Grafana stack for real-time observability.  
+
+---
+
 ## 🚀 Portfolio – Micro Projects
 
 ### [Micro-01: Ansible VLAN + Access Port](https://github.com/ciscofiras/micro-01-ansible-vlan-port)
@@ -70,6 +79,7 @@ Zero-Trust baseline firewall with iptables.
 ---
 
 📫 **Connect with me:**  
-- GitHub: [@ciscofiras](https://github.com/ciscofiras)  
-- LinkedIn: *(add your LinkedIn link here)*  
+[![GitHub](https://img.shields.io/badge/GitHub-ciscofiras-181717?logo=github)](https://github.com/ciscofiras)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Email](https://img.shields.io/badge/Email-firasissa%40gmail.com-red?logo=gmail&logoColor=white)](mailto:firasissa@gmail.com)
 
