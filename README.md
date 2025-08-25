@@ -81,5 +81,5 @@ Zero-Trust baseline firewall with iptables.
 📫 **Connect with me:**  
 [![GitHub](https://img.shields.io/badge/GitHub-ciscofiras-181717?logo=github)](https://github.com/ciscofiras)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-firasissa%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eng.firas13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eng.firas13%40gmail.com-red?logo=gmail&logoColor=white)](mailto:eng.firas13@gmail.com)
 
