@@ -3,6 +3,21 @@
 
 ---
 
+## 🏷️ Tech Stack Badges
+
+![Cisco](https://img.shields.io/badge/Network-Cisco-blue?logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Network-Juniper-green?logo=junipernetworks&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Security-Fortinet-red?logo=fortinet&logoColor=white)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-black?logo=ansible)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C?logo=prometheus)
+![Wireshark](https://img.shields.io/badge/Analysis-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
 ## 🚀 Portfolio – Micro Projects
 
 ### [Micro-01: Ansible VLAN + Access Port](https://github.com/ciscofiras/micro-01-ansible-vlan-port)
